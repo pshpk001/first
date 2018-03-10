@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("Before status");
+	printf("after status");
 	return 0;
 }
